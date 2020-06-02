@@ -1,6 +1,7 @@
 name: Elasticsearch Helper Index Alias
 type: module
 description: A module which adds index versioning and alias features
+core_version_requirement: ^8 || ^9
 core: 8.x
 dependencies:
   - elasticsearch_helper
