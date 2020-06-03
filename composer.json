@@ -1,0 +1,18 @@
+{
+    "name": "drupal/elasticsearch_helper_index_alias",
+    "type": "drupal-module",
+    "description": "Adds index versioning and alias features while managing indices in elasticsearch with Elasticsearch Helper",
+    "homepage": "http://drupal.org/project/elasticsearch_helper_index_alias",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Marc Galang",
+            "email": "marc.galang@wunder.io"
+        }
+    ],
+    "require": {
+        "drupal/elasticsearch_helper": "^7",
+        "drupal/elasticsearch_helper_index_management": "^7"
+    },
+    "minimum-stability": "dev"
+}
