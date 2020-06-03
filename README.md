@@ -14,6 +14,11 @@ functionality while managing re-indexes from the administrative UI.
 * [Elasticsearch Helper Index management][elasticsearch_helper_index_management]
   module.
 
+## Installation
+
+Elasticsearch Helper Index Alias can be installed via the
+[standard Drupal installation process](https://www.drupal.org/docs/extending-drupal/installing-drupal-modules).
+
 ## Configuration
 
 * Install and enable [Elasticsearch Helper][elasticsearch_helper] module.
