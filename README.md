@@ -9,7 +9,7 @@ functionality while managing re-indexes from the administrative UI.
 
 ## Requirements
 
-* Drupal 8 or Drupal 9
+* Drupal 8, 9 or 10
 * [Elasticsearch Helper][elasticsearch_helper] module
 * [Elasticsearch Helper Index management][elasticsearch_helper_index_management]
   module.
